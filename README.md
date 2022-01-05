@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
   <div style="display: flex; flex-direction:row;">
   <a href="https://github.com/igorgouv">
-  <img height="199em" src="https://github-readme-stats.vercel.app/api?username=igorgouv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="199em" width="150px"; src="https://github-readme-stats.vercel.app/api?username=igorgouv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgouv&layout=compact&theme=tokyonight"/> </a> -->
-  <img align="right" alt="Igor" height="200em" width="330px" src="https://c.tenor.com/f7uhDqZB6GAAAAAd/yuuji-itadori-itadori.gif">
+  <img align="right" alt="Igor" height="200em" width="360px" src="https://c.tenor.com/f7uhDqZB6GAAAAAd/yuuji-itadori-itadori.gif">
   </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
