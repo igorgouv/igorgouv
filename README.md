@@ -21,10 +21,14 @@ Here are some ideas to get you started:
 
 </div>
   <div style="display: inline_block"><br>
+   <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+
    <img align="right" alt="Igor" margin-left="50" height="100" width="200" src="https://media1.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=790b76114b5386a0053afc4f35ab231ec289eda20b00437a&rid=giphy.gif&ct=g">
     🔥  I’m currently learning JS, HTML, CSS... 🔥 
 </div>
