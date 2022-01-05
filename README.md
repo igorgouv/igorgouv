@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 
-   <img align="right" alt="Igor" margin-left="50" height="100" width="200" src="https://media1.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=790b76114b5386a0053afc4f35ab231ec289eda20b00437a&rid=giphy.gif&ct=g">
-    🔥  I’m currently learning JS, HTML, CSS... 🔥 
+   <img align="right" alt="Igor" margin-left="50" height="100" width="200" src="https://c.tenor.com/f7uhDqZB6GAAAAAd/yuuji-itadori-itadori.gif">
+    🔥  I’m currently learning Java, JS and React 🔥 
 </div>
 </br>
   <div> 
