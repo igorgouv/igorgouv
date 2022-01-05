@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  </div>
   <div style="display: flex; flex-direction:row;">
   <a style="color: rgb(202, 108, 152); hover: rgb(0, 0, 0); font-size: 100em;">🔥  I’m currently learning Java, JS and React 🔥</a> 
-  <img align="right" alt="Igor" height="200em"src="https://i.pinimg.com/originals/b0/7b/1b/b07b1b0a409393857ec025afa54ab60f.gif">
+  <img align="right" style="transform: rotateY(180deg);" alt="Igor" height="100em"src="https://i.pinimg.com/originals/b0/7b/1b/b07b1b0a409393857ec025afa54ab60f.gif">
   </div>
   </br>
   </br>
