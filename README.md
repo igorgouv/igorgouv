@@ -32,8 +32,8 @@ Here are some ideas to get you started:
  </br>
  </div>
   <div style="display: flex; flex-direction:row;">
-  <a style="color: #3a5172; font-size: 100em;">🔥  I’m currently learning Java, JS and React 🔥</a> 
-  <img align="right" alt="Igor" height="200em" width="360px" src="https://64.media.tumblr.com/616c0c49f1a09a0d122abcbab058670e/f43246460f5ae896-67/s400x600/21f8a59f6cad861a3077315115a63eb203924af4.gifv">
+  <a style="color: rgb(202, 108, 152); hover: rgb(0, 0, 0); font-size: 100em;">🔥  I’m currently learning Java, JS and React 🔥</a> 
+  <img align="right" alt="Igor" height="200em"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47361df0-7a0b-4149-92d6-dd127f25a9f8/de5h6wp-36264eff-33d6-40fd-8fb8-f35d28a0fc6a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3MzYxZGYwLTdhMGItNDE0OS05MmQ2LWRkMTI3ZjI1YTlmOFwvZGU1aDZ3cC0zNjI2NGVmZi0zM2Q2LTQwZmQtOGZiOC1mMzVkMjhhMGZjNmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0VOgIy9UiR3-yaNK6aayZjgbSSu6BDaIObaH3iXhHTY">
   </div>
   </br>
   </br>
@@ -44,6 +44,3 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/igorgouv/igorgouv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-
- <img align="center" alt="Igor" height="200em" width="100%;" src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/05/tavis.gif?resize=500%2C420">
