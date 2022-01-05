@@ -32,15 +32,15 @@ Here are some ideas to get you started:
  </br>
  </div>
   <div style="display: flex; flex-direction:row;">
-  <a style="color: rgb(202, 108, 152); hover: rgb(0, 0, 0); font-size: 100em;">🔥  I’m currently learning Java, JS and React 🔥</a> 
-  <img align="right" style="transform: rotateY(180deg);" alt="Igor" height="100em"src="https://i.pinimg.com/originals/b0/7b/1b/b07b1b0a409393857ec025afa54ab60f.gif">
+ <img align="left" alt="Igor" height="100em"src="https://i.pinimg.com/originals/b0/7b/1b/b07b1b0a409393857ec025afa54ab60f.gif"> 
+ <a style="color: rgb(202, 108, 152); hover: rgb(0, 0, 0); font-size: 100em;">🔥  I’m currently learning Java, JS and React 🔥</a> 
   </div>
-  </br>
-  </br>
-  <div> 
+  <div>
   <a href = "mailto:igorgouvb@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail--v1.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-gouveia-barbosa-b492a2211/" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/linkedin.png" target="_blank"/> </a> 
- 
+  <a href="https://www.linkedin.com/in/igor-gouveia-barbosa-b492a2211/" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/linkedin.png" target="_blank"/> </a> </div>
+  </br>
+  </br>
+  
+  <div> 
   ![Snake animation](https://github.com/igorgouv/igorgouv/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  </div>
