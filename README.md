@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  </div>
   <div style="display: flex; flex-direction:row;">
   <a style="color: rgb(202, 108, 152); hover: rgb(0, 0, 0); font-size: 100em;">🔥  I’m currently learning Java, JS and React 🔥</a> 
-  <img align="right" alt="Igor" height="200em"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47361df0-7a0b-4149-92d6-dd127f25a9f8/de5h6wp-36264eff-33d6-40fd-8fb8-f35d28a0fc6a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3MzYxZGYwLTdhMGItNDE0OS05MmQ2LWRkMTI3ZjI1YTlmOFwvZGU1aDZ3cC0zNjI2NGVmZi0zM2Q2LTQwZmQtOGZiOC1mMzVkMjhhMGZjNmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0VOgIy9UiR3-yaNK6aayZjgbSSu6BDaIObaH3iXhHTY">
+  <img align="right" alt="Igor" height="200em"src="https://i.pinimg.com/originals/b0/7b/1b/b07b1b0a409393857ec025afa54ab60f.gif">
   </div>
   </br>
   </br>
