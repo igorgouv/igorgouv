@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 
- <h1 style="h1:hover{color: #3a5172;}>🔥  I’m currently learning Java, JS and React 🔥</h1> 
+ <h2>🔥  I’m currently learning Java, JS and React 🔥</h2> 
 </div>
 </br>
   <div> 
@@ -40,3 +40,12 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/igorgouv/igorgouv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<style>
+ h2{
+ color: #ffe1ef;
+ }
+ h2:hover{
+ color: #3a5172;
+ }
+ </style>
