@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgouv&layout=compact&theme=tokyonight"/> </a> -->
   <img align="right" style="border-color: #0000;" alt="Igor" height="175em" width="380px" src="https://c.tenor.com/f7uhDqZB6GAAAAAd/yuuji-itadori-itadori.gif">
   </div>
-
-  <div style="display: flex; flex-direction:row;">
-   
   <img align="left" alt="Igor" height="100em"src="https://i.pinimg.com/originals/b0/7b/1b/b07b1b0a409393857ec025afa54ab60f.gif"> 
+  <div style="display: flex; flex-direction:row;">
     <div style="display: inline_block"><br>
    <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
