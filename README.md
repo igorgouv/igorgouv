@@ -14,16 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - Fun fact: ...
 -->
-<div style="display: flex; flex-direction:row;>
-  <div>
+
+  <div style="display: flex; flex-direction:row;>
   <a href="https://github.com/igorgouv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorgouv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgouv&layout=compact&theme=tokyonight"/> </a> -->
+  <img align="right" alt="Igor" height="180em" src="https://c.tenor.com/f7uhDqZB6GAAAAAd/yuuji-itadori-itadori.gif">
   </div>
-                                                                                                                                          <div>
-   <img align="right" alt="Igor" height="180em" src="https://c.tenor.com/f7uhDqZB6GAAAAAd/yuuji-itadori-itadori.gif">
-  </div>
-</div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
