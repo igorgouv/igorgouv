@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <a>🔥  I’m currently learning Java, JS and React 🔥</a> 
+   <a style="font-style: italic;">🔥 I’m currently learning Java, JS and React 🔥</a> 
   <a href = "mailto:igorgouvb@gmail.com"><img align="center" src="https://img.icons8.com/color/30/000000/gmail--v1.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-gouveia-barbosa-b492a2211/" target="_blank"><img align="center"src="https://img.icons8.com/fluency/30/000000/linkedin.png" target="_blank"/> </a>
+  <a href="https://www.linkedin.com/in/igor-gouveia-barbosa-b492a2211/" target="_blank"><img align="center"src="https://img.icons8.com/fluency/30/000000/linkedin.png" target="_blank"/></a>
  </div>
    
 </div>
