@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   </br>
   <div> 
   <a href = "mailto:igorgouvb@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail--v1.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-gouveia-barbosa-b492a2211/" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/linkedin.png"/> target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/igor-gouveia-barbosa-b492a2211/" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/linkedin.png" target="_blank"/> </a> 
  
   ![Snake animation](https://github.com/igorgouv/igorgouv/blob/output/github-contribution-grid-snake.svg)
  
