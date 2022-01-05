@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgouv&layout=compact&theme=tokyonight"/> </a> -->
   </div>
                                                                                                                                           <div>
-   <img align="right" alt="Igor" src="https://c.tenor.com/f7uhDqZB6GAAAAAd/yuuji-itadori-itadori.gif">
+   <img align="right" alt="Igor" height="180em" src="https://c.tenor.com/f7uhDqZB6GAAAAAd/yuuji-itadori-itadori.gif">
   </div>
 </div>
 <div style="display: inline_block"><br>
