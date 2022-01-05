@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 
- <h1 style="font-size: 18px; h1:hover{color: #3a5172;}>🔥  I’m currently learning Java, JS and React 🔥</h1> 
+ <h1 style="h1:hover{color: #3a5172;}>🔥  I’m currently learning Java, JS and React 🔥</h1> 
 </div>
 </br>
   <div> 
