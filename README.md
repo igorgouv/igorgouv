@@ -1,4 +1,4 @@
- <h2 align="center"> Olá! Fique a vontade! 🔥 </h2>
+ <h2 align="center">🔥 こんにちは! Fique a vontade! 🔥 </h2>
 
 
   <div style="display: flex; flex-direction:row;">
